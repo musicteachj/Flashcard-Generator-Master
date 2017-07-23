@@ -1,0 +1,1 @@
+[{"text":"John, Paul, George and (Ringo)","makeMore":false},{"text":"(Bob Dylan) once wrote \"the  times, they are a changin\"","makeMore":false}]
